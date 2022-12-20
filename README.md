@@ -10,6 +10,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Checkmarx_kics&metric=alert_status)](https://sonarcloud.io/dashboard?id=Checkmarx_kics)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Checkmarx/kics)](https://goreportcard.com/report/github.com/Checkmarx/kics)
 [![Go Coverage](https://raw.githubusercontent.com/Checkmarx/kics/gh-pages/coverage.svg)](https://docs.kics.io/coverage.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabbu111%2Fkics.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabbu111%2Fkics?ref=badge_shield)
 
 
 <img alt="KICS - Keep Infrastructure as Code Secure" src="docs/img/logo/kics_new_logo_2022_dark.png#gh-light-mode-only" width="500">
@@ -113,3 +114,7 @@ Join the <a href="https://github.com/Checkmarx/kics/discussions" target="_blank"
 ---
 
 &copy; 2021 Checkmarx Ltd. All Rights Reserved.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabbu111%2Fkics.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabbu111%2Fkics?ref=badge_large)
